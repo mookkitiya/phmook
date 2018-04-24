@@ -1,0 +1,52 @@
+[Wed, 25 Apr 18 00:35:05 +0700][ERROR] [0]: Column 'css' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE css LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:35:05 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:35:05 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:35:05 +0700][ERROR] [0]: Column 'js' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE js LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:35:05 +0700][ERROR] [0]: Column 'img' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE img LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:35:05 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:35:05 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:35:05 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:30 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:30 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:30 +0700][ERROR] [0]: Column 'css' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE css LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:30 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:30 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:30 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:30 +0700][ERROR] [0]: Column 'js' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE js LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:30 +0700][ERROR] [0]: Column 'img' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE img LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:59 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:59 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:59 +0700][ERROR] [0]: Column 'css' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE css LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:59 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:59 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:59 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:59 +0700][ERROR] [0]: Column 'js' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE js LIMIT :APL0:
+
+[Wed, 25 Apr 18 00:36:59 +0700][ERROR] [0]: Column 'img' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE img LIMIT :APL0:
+
+[Wed, 25 Apr 18 05:54:23 +0700][ERROR] [1045]: SQLSTATE[HY000] [1045] Access denied for user 'jaiswithyou'@'localhost' (using password: YES)
+
+[Wed, 25 Apr 18 05:56:17 +0700][ERROR] [1045]: SQLSTATE[HY000] [1045] Access denied for user 'jaiswithyou'@'localhost' (using password: YES)
+

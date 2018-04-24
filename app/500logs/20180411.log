@@ -1,0 +1,8 @@
+[Wed, 11 Apr 18 02:19:48 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 11 Apr 18 02:19:48 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 11 Apr 18 02:25:52 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Wed, 11 Apr 18 02:25:52 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+

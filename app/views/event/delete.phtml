@@ -1,0 +1,21 @@
+<div class="container">
+<div class="col-lg-8 mx-auto">
+          <h2>Delete</h2>
+          <p>delete your data?</p>
+        </div>
+      </div>
+
+<div class="row">
+    <div class="col-sm">
+    </div>
+    <div class="col-sm">
+    <form action="" method="post" enctype="multipart/form-data">
+	<input type="hidden" name="event_number" value="<?php echo $eventdel->event_number;?>">
+    <button type="submit" class="btn btn-info">Submit</button>
+    <a href="<?php echo $this->url->getBaseUri(); ?>/event/show" class="btn btn-warning">Back</a>
+
+</form>
+    </div>
+    <div class="col-sm">
+    </div>
+  </div>

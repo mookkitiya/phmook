@@ -1,0 +1,162 @@
+[Mon, 09 Apr 18 00:13:51 +0700][ERROR] [0]: Scanning error before '��ทสไอ�...' when parsing: SELECT [Event].* FROM [Event] WHERE เทสไอ้สัส LIMIT :APL0: (76)
+
+[Mon, 09 Apr 18 00:15:55 +0700][ERROR] [0]: Column 'test1' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test1 LIMIT :APL0:
+
+[Mon, 09 Apr 18 00:16:13 +0700][ERROR] [0]: Scanning error before '��ทสสอ�...' when parsing: SELECT [Event].* FROM [Event] WHERE เทสสอง LIMIT :APL0: (67)
+
+[Mon, 09 Apr 18 00:22:55 +0700][ERROR] [0]: Column 'test1' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test1 LIMIT :APL0:
+
+[Mon, 09 Apr 18 00:25:35 +0700][ERROR] [0]: Column 'test1' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test1 LIMIT :APL0:
+
+[Mon, 09 Apr 18 00:30:59 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: eventlist in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'eventlist_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: eventlist in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'eventlist_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (337)
+
+[Mon, 09 Apr 18 00:31:23 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: numrow in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: numrow in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (177)
+
+[Mon, 09 Apr 18 00:31:40 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: numrow in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: numrow in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (177)
+
+[Mon, 09 Apr 18 00:38:34 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: eventlist in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'eventlist_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: eventlist in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'eventlist_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (337)
+
+[Mon, 09 Apr 18 00:45:23 +0700][ERROR] [0]: Column 'edit12' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE edit12 LIMIT :APL0:
+
+[Mon, 09 Apr 18 00:45:36 +0700][ERROR] [0]: Column 'edit12' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE edit12 LIMIT :APL0:
+
+[Mon, 09 Apr 18 00:45:47 +0700][ERROR] [0]: Column 'edit12' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE edit12 LIMIT :APL0:
+
+[Mon, 09 Apr 18 00:45:57 +0700][ERROR] [0]: Column 'edit12' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE edit12 LIMIT :APL0:
+
+[Mon, 09 Apr 18 00:47:20 +0700][ERROR] [0]: Column 'edit12' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE edit12 LIMIT :APL0:
+
+[Mon, 09 Apr 18 00:47:31 +0700][ERROR] [0]: Column 'edit12' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE edit12 LIMIT :APL0:
+
+[Mon, 09 Apr 18 00:53:52 +0700][ERROR] [0]: Column 'edit12' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE edit12 LIMIT :APL0:
+
+[Mon, 09 Apr 18 00:55:14 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: eventlist in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: eventlist in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (333)
+
+[Mon, 09 Apr 18 00:56:23 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: eventlist in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: eventlist in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (333)
+
+[Mon, 09 Apr 18 00:56:32 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: eventlist in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: eventlist in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (333)
+
+[Mon, 09 Apr 18 01:16:26 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (329)
+
+[Mon, 09 Apr 18 01:17:33 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (329)
+
+[Mon, 09 Apr 18 01:23:36 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (329)
+
+[Mon, 09 Apr 18 01:29:44 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (329)
+
+[Mon, 09 Apr 18 01:52:04 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (329)
+
+[Mon, 09 Apr 18 01:52:49 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (329)
+
+[Mon, 09 Apr 18 01:58:22 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (329)
+
+[Mon, 09 Apr 18 02:16:00 +0700][ERROR] [0]: Column 'rownum' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE rownum LIMIT :APL0:
+
+[Mon, 09 Apr 18 03:06:58 +0700][ERROR] [0]: Table 'event' doesn't exist in database when dumping meta-data for Event
+
+[Mon, 09 Apr 18 12:10:30 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:10:30 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:16:28 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:16:28 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:17:17 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:17:17 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:18:25 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:18:25 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:18:38 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:18:38 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:18:55 +0700][ERROR] [0]: Column 'profile' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE profile LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:18:55 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 12:18:55 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:09:56 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:09:56 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:14:53 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:14:54 +0700][ERROR] [0]: Column 'js' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE js LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:18:51 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:18:51 +0700][ERROR] [0]: Column 'js' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE js LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:20:07 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:27:24 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:27:24 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:29:46 +0700][ERROR] [0]: Column 'event' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE event LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:30:21 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:30:21 +0700][ERROR] [0]: Column 'js' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE js LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:30:56 +0700][ERROR] [0]: Column 'event' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE event LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:30:56 +0700][ERROR] [0]: Column 'event' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE event LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:30:56 +0700][ERROR] [0]: Column 'event' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE event LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:31:28 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:31:28 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:31:46 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:31:46 +0700][ERROR] [0]: Column 'js' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE js LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:32:31 +0700][ERROR] [0]: Column 'event' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE event LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:32:31 +0700][ERROR] [0]: Column 'event' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE event LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:32:31 +0700][ERROR] [0]: Column 'event' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE event LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:32:57 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 13:32:57 +0700][ERROR] [0]: Column 'js' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE js LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:09:33 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:09:33 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:12:32 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:12:32 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:13:27 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:13:27 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:13:44 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:13:44 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:13:59 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:13:59 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:26:13 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:26:13 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:31:02 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:31:02 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:34:53 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+
+[Mon, 09 Apr 18 14:34:53 +0700][ERROR] [0]: Column 'vendor' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE vendor LIMIT :APL0:
+

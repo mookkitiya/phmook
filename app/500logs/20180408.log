@@ -1,0 +1,42 @@
+[Sun, 08 Apr 18 01:58:43 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\index.phtml</b> on line <b>7</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\index.phtml</b> on line <b>7</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\index.phtml</b> on line <b>7</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\index.phtml</b> on line <b>7</b><br /> LIMIT :APL0: (331)
+
+[Sun, 08 Apr 18 02:24:36 +0700][ERROR] [0]: Column 'T' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE T LIMIT :APL0:
+
+[Sun, 08 Apr 18 04:43:33 +0700][ERROR] [0]: Column 'test1' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test1 LIMIT :APL0:
+
+[Sun, 08 Apr 18 04:46:24 +0700][ERROR] [0]: Column 'test1' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test1 LIMIT :APL0:
+
+[Sun, 08 Apr 18 04:51:07 +0700][ERROR] [0]: Column 'test1' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test1 LIMIT :APL0:
+
+[Sun, 08 Apr 18 04:55:05 +0700][ERROR] [0]: Column 'test1' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test1 LIMIT :APL0:
+
+[Sun, 08 Apr 18 04:56:16 +0700][ERROR] [0]: Column 'aaaaa' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE aaaaa LIMIT :APL0:
+
+[Sun, 08 Apr 18 04:56:56 +0700][ERROR] [0]: Column 'aaaaa' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE aaaaa LIMIT :APL0:
+
+[Sun, 08 Apr 18 05:02:08 +0700][ERROR] [0]: Column 'test1' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test1 LIMIT :APL0:
+
+[Sun, 08 Apr 18 05:02:54 +0700][ERROR] [0]: Column 'aaaaa' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE aaaaa LIMIT :APL0:
+
+[Sun, 08 Apr 18 05:04:08 +0700][ERROR] [0]: Column 'a' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE a LIMIT :APL0:
+
+[Sun, 08 Apr 18 05:04:58 +0700][ERROR] [0]: Column 'test1' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test1 LIMIT :APL0:
+
+[Sun, 08 Apr 18 05:06:49 +0700][ERROR] [0]: Column 'test2' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test2 LIMIT :APL0:
+
+[Sun, 08 Apr 18 05:19:39 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (329)
+
+[Sun, 08 Apr 18 05:20:17 +0700][ERROR] [0]: Syntax error, unexpected token <, near to 'br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE <br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /> LIMIT :APL0: (329)
+
+[Sun, 08 Apr 18 05:31:15 +0700][ERROR] [0]: Column 'test3' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test3 LIMIT :APL0:
+
+[Sun, 08 Apr 18 05:55:32 +0700][ERROR] [0]: Syntax error, unexpected token IDENTIFIER(event_number), near to '' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br />' LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE event_number = '<br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br />' LIMIT :APL0: (346)
+
+[Sun, 08 Apr 18 20:12:50 +0700][ERROR] [0]: Syntax error, unexpected token IDENTIFIER(event_number), near to '' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br />' LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE event_number = '<br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br />' LIMIT :APL0: (346)
+
+[Sun, 08 Apr 18 20:32:09 +0700][ERROR] [0]: Syntax error, unexpected token IDENTIFIER(event_number), near to '' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br />' LIMIT :APL0:', when parsing: SELECT [Event].* FROM [Event] WHERE event_number = '<br /><b>Notice</b>:  Undefined variable: event in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br /><br /><b>Notice</b>:  Trying to get property 'event_number' of non-object in <b>C:\xampp\htdocs\hw3\app\views\event\edit.phtml</b> on line <b>6</b><br />' LIMIT :APL0: (346)
+
+[Sun, 08 Apr 18 20:57:41 +0700][ERROR] [0]: Column 'test4' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test4 LIMIT :APL0:
+
+[Sun, 08 Apr 18 23:56:46 +0700][ERROR] [0]: Column 'test1' doesn't belong to any of the selected models (1), when preparing: SELECT [Event].* FROM [Event] WHERE test1 LIMIT :APL0:
+

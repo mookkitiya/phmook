@@ -1,0 +1,61 @@
+<div class="container">
+<div class="col-lg-8 mx-auto">
+          <h2>Event</h2>
+          <p>Check your event here</p>
+        </div>
+      </div>
+
+  <?php  
+ $connect = mysqli_connect("localhost", "root", "jafar_789", "event_db");  
+ $query ="SELECT * FROM event";  
+ $result = mysqli_query($connect, $query);
+ ?>  
+ <!DOCTYPE html>  
+ <html>  
+      <head> 
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.12.1/bootstrap-table.min.css">
+	<script  src="https://code.jquery.com/jquery-3.3.1.min.js"  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="  crossorigin="anonymous"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.12.1/bootstrap-table.min.js"></script>
+      </head>  
+      <body>  
+           <div class="container container-form">
+           <div class="panel panel-primary"> 
+                <div class="panel-body">
+
+                    <li class="nav-item mx-0 mx-lg-1">
+       <a href="index" class="btn btn-outline-info"> Add </a>
+      </li>
+<br><br>
+                     <table data-toggle="table">
+                          <thead>
+                               <tr>
+                               <th data-field="eventnum">Event No.</th>
+                               <th data-field="eventname">Event Name</th>
+                            <th data-field="eventdate">Event Date</th>
+                            <th data-field="action"></th>
+                               </tr>  
+                          </thead>  
+                          <?php  
+                          while($row = mysqli_fetch_array($result))  
+                          {   
+                          ?>
+                               <tr> 
+                               <input type="hidden" name="event_number" value="<?php echo $event->event_number;?>">
+                                    <td> <?php echo $row["event_number"] ?> </td>  
+                                    <td> <?php echo $row["event_name"] ?></td>  
+                                    <td> <?php echo $row["event_date"]?> </td> 
+                                    <td>
+                                    <a href="edit/<?php echo $row["event_number"] ?>" class="btn btn-outline-info"> Edit </a>
+                                   <a href="delete/<?php echo $row["event_number"] ?>" class="btn btn-outline-info"> Delete </a>
+                                  </td>
+                               </tr>
+                               <?php
+                          }  
+                          ?>
+                     </table>  
+                     </div>  
+                </div>  
+           </div>  
+      </body>  
+ </html>  
